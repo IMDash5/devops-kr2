@@ -1,3 +1,4 @@
+# KR2: Mavrin
 import os
 import socket
 
